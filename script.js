@@ -14,7 +14,7 @@
     // Select project:
     const project = document.querySelector('select#id_project');
     // Inspect element to get your project's value!
-    project.value = 0;
+    project.value = 20;
 
     // Input activity:
     const activity0 = document.querySelector('input#id_activity_0');
